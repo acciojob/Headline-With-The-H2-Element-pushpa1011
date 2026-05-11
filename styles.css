@@ -1,1 +1,7 @@
 /* Your CSS code here. */
+h2 {
+    text-align: center;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+}
